@@ -1,0 +1,23 @@
+body {
+	background-color: black;	
+}
+
+#slider {
+    height:400px;
+    width:100%;
+    overflow:hidden;
+    background:black;
+}
+
+.slide {
+    height:400px;
+    float:left;
+    text-align:center;
+}
+
+.pepper {
+	display: flex;
+	justify-content: center;
+	width: 100%;
+	margin: 20px;
+}
